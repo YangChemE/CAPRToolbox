@@ -7,7 +7,7 @@ setuptools.setup(
         name='CAPRToolBox',
         version = '0.0.1',
         author = 'Yang Wang',
-        auther_email = 'yplsw90@outlook.com',
+        author_email = 'yplsw90@outlook.com',
         description = 'Testing installation of Package',
         long_description = long_description,
         long_description_content_type = "text/markdown",
