@@ -8,7 +8,7 @@ setuptools.setup(
         version = '0.0.1',
         author = 'Yang Wang',
         auther_email = 'yplsw90@outlook.com',
-        descripttion = 'Testing installation of Package',
+        description = 'Testing installation of Package',
         long_description = long_description,
         long_description_content_type = "text/markdown",
         url = 'http://github.com/YangChemE/CAPRToolBox',
